@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0rem 1rem 1rem 1rem;
+    font-family: "Roboto", sans-serif;
+    ;
+}
+
+.bg-verde{
+background-color: #28a745;
+
+  
+}
+.img-logo {
+    height: 3rem;
+}
+
+ .green {
+     color: #28a745;
+ }
+ 
+ .pb-20 {
+     padding-bottom: 80px;
+ }
+
+ .fw-light {
+     font-size: 13pt;
+     color: #707070
+ }
+
+ .card-text {
+     font-size: 16pt;
+     color: #707070;
+ }
+ .card-title {
+     font-size: 20pt;
+     color: #212529;
+ }
+
+
+h4 {
+    width:medium;
+    color: #ffffff;
+    font-size: 21pt;
+}
+.btn-light {
+    color: #212529;
+    font-size: 16pt;
+}
+
+.text-center img {
+    height: 2rem;
+}
+
+.footer-text p {
+    font-size: 16pt;
+    font-size: "Roboto";
+    
+}
+
